@@ -6,6 +6,8 @@ export interface BadgeTier {
   color: string;
   requirement: string;
   unlocked: boolean;
+  progress?: number;
+  target?: number;
 }
 
 export interface Badge {
@@ -18,6 +20,7 @@ export interface Badge {
   tiers?: BadgeTier[];
   howToEarn: string;
   retired?: boolean;
+  owned?: boolean; // New property to track if the user owns this badge (for non-tiered badges)
 }
 
 export interface ChatMessage {
@@ -35,4 +38,19 @@ export enum ModelType {
   FAST = 'fast',
   SMART = 'smart',
   CREATIVE = 'creative'
+}
+
+export interface UserProfile {
+  login: string;
+  avatar_url: string;
+  name: string;
+  bio: string;
+  public_repos: number;
+  followers: number;
+  created_at: string;
+}
+
+export interface UserStats {
+  totalStars: number;
+  mergedPRs: number;
 }
