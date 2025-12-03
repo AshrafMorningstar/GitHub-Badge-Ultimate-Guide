@@ -84,8 +84,8 @@ export const BADGES: Badge[] = [
 ];
 
 export const RARITY_COLORS: Record<Rarity, string> = {
-  Common: 'text-slate-400',
-  Rare: 'text-blue-400',
-  Epic: 'text-purple-400',
-  Legendary: 'text-yellow-400'
+  Common: 'text-slate-500 dark:text-slate-400',
+  Rare: 'text-blue-600 dark:text-blue-400',
+  Epic: 'text-purple-600 dark:text-purple-400',
+  Legendary: 'text-yellow-600 dark:text-yellow-400'
 };
