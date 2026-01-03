@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 # 🌟 GitHub Badge Ultimate Guide: The Master Reference
 
 <div align="center">
@@ -453,3 +461,29 @@ The **GitHub Badge Ultimate Guide** aims to become the **definitive, canonical r
 <img width="1920" height="2157" alt="9bf936a5-4074-4f5b-b902-82b8d5c51caf" src="https://github.com/user-attachments/assets/79c5c4fb-ba7f-4ffd-b49e-245f8c650471" />
 <img width="1920" height="1734" alt="1fc1dc51-b9a5-4bb0-9ac0-a66dbcca5cd8" src="https://github.com/user-attachments/assets/338392af-5187-420c-bb61-a72d840e3ed9" />
 
+
+
+---
+
+## 📜 Copyright & License
+
+© 2026 Ashraf Morningstar. All Rights Reserved.
+
+**Educational Disclaimer:** This is a personal recreation of an existing project concept, developed for learning and skill development purposes. The original project concept remains the intellectual property of its respective creator(s).
+
+**License:** MIT License - See [LICENSE](./LICENSE) file for details.
+
+**Developer:** [Ashraf Morningstar](https://github.com/AshrafMorningstar)
+
+**Portfolio:** Explore more projects at [github.com/AshrafMorningstar](https://github.com/AshrafMorningstar)
+
+---
+
+### 🤝 Connect & Contribute
+
+Found this helpful? Give it a ⭐️ on GitHub!
+
+- 💼 Company: MORNINGSTARCONSTRUCTION
+- 📍 Location: India
+- 🐦 Twitter: [@AMS_Morningstar](https://twitter.com/AMS_Morningstar)
+- 📧 Email: ashrafmorningstar@gmail.com

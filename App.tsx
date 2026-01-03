@@ -1,3 +1,11 @@
+/*
+ Copyright (c) 2026 Ashraf Morningstar
+ These are personal recreations of existing projects, developed by Ashraf Morningstar
+ for learning and skill development.
+ Original project concepts remain the intellectual property of their respective creators.
+ Repository: https://github.com/AshrafMorningstar
+*/
+
 import React, { useState, useEffect, useRef, useMemo } from 'react';
 import { BADGES, RARITY_COLORS } from './constants';
 import { Badge, ChatMessage, ModelType, UserProfile, UserStats, BadgeCategory } from './types';
